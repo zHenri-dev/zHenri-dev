@@ -1,7 +1,10 @@
 ### Welcome to my github 👋
-My name is Henrique Gasparotte, I'm 13 years old and most of the time I spend developing, playing and swimming. My favorite color is blue. 😁
+My name is Henrique Gasparotte, I'm 13 years old and most of the time I spend developing, playing and swimming.
+<br>
+My favorite color is blue. 😁
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zHenri-dev&show_icons=true&theme=radical)
+![Henrique Gasparotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=zHenri-dev&show_icons=true&theme=github_dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zHenri-dev&layout=compact)](https://github.com/zhenri-dev/)
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
