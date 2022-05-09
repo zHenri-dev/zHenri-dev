@@ -1,5 +1,5 @@
 ### Welcome to my github 👋
-My name is Henrique Gasparotte, I'm 13 years old and most of the time I spend developing, playing and swimming.
+My name is Henrique Gasparotte, most of the time I spend developing, playing and swimming.
 <br>
 My favorite color is blue. 😁
 
