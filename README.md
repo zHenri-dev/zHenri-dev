@@ -1,7 +1,6 @@
 ### Welcome to my github 👋
-My name is Henrique Gasparotte, most of the time I spend developing, playing and swimming.
+My name is Henrique, most of the time I spend developing, playing and swimming.
 <br>
-My favorite color is blue. 😁
 
 ![Henrique Gasparotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=zHenri-dev&show_icons=true&theme=github_dark)
 
